@@ -1,0 +1,4 @@
+Decide which business/brand you want to order from.
+Decide which type/flavor of pizza to order.
+Provide the address for delivery.
+Finalize the order.
